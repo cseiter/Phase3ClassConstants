@@ -150,3 +150,4 @@ Open `spec/02_shoe_spec.rb` and start making the tests pass. Write your code in 
 To run the specs, type `learn spec/02_shoe_spec.rb` on your command line.
 
 Happy coding!
+# Phase3ClassConstants
